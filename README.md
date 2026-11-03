@@ -15,7 +15,7 @@ para practicar GitHub Flow y la revisión mediante Pull Requests.
 | Miembro | Tareas |
 |---|---|
 | Rafael1570 | Página de inicio (#1) y hoja de estilos común (#4) |
-| Compañero pendiente de identificar | Programa (#2) e inscripción (#3) |
+| GoveDev | Programa (#2) e inscripción (#3) |
 
 ## Tecnologías
 
