@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+# daw2-parejas-pr
+
+README DEL PROYECTO
+
+AQUI ESTA LA DESCRIPCION DEL PROYECTO
+-AA
+-BB
+-CC
+
+MAOOOO :3
+=======
 # Jornadas de Informática DAW
 
 Web de unas jornadas de informática, desarrollada en pareja
@@ -32,3 +44,4 @@ con al menos una aprobación del otro miembro.
 Abrir el proyecto en VS Code y ejecutar index.html con Live Server.
 Para comprobar todas las páginas, sus Pull Requests deben estar
 integradas en main.
+>>>>>>> 4c7edc684f771ebbecd37fdef2bec0f9037b8924
